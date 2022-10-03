@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "grM30wWq6tHrUhS03xsZCZ8px9iTP+06OD0Zt8+TTFg=",
+  "Source": "Crdt.Sync.Server.Web",
+  "BasePath": "_content/Crdt.Sync.Server.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
